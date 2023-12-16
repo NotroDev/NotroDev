@@ -1,5 +1,5 @@
 - Hi, I'm Notro!
-- Programming in: C# and Java
+- Programming in: C#
 - Country: Poland 🇵🇱
 - Discord: Notro#5324
-- Biggest project: https://github.com/NotroDev/SkEditorPlus
+- The biggest project: [https://github.com/NotroDev/SkEditorPlus](https://github.com/SkEditorTeam/SkEditor)https://github.com/SkEditorTeam/SkEditor
