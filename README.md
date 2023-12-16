@@ -2,4 +2,4 @@
 - Programming in: C#
 - Country: Poland 🇵🇱
 - Discord: Notro#5324
-- The biggest project: [https://github.com/NotroDev/SkEditorPlus](https://github.com/SkEditorTeam/SkEditor)https://github.com/SkEditorTeam/SkEditor
+- The biggest project: [SkEditor](https://github.com/SkEditorTeam/SkEditor)
