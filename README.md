@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Notro!
+# 👋 Hi, I'm Notro!
 #### My Discord: `notrodev`
 #### The most important project: [SkEditor](https://github.com/SkEditorTeam/SkEditor)
 ### Technologies:
