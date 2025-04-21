@@ -17,7 +17,7 @@ Hi there! I'm **Notro**, a passionate C# developer :D
 
 <div align="center">
   
-[![SkEditor Card](https://github-readme-stats-git-main-notrodevs-projects.vercel.app/api/pin/?username=SkEditorTeam&repo=SkEditor&theme=tokyonight)](https://github.com/SkEditorTeam/SkEditor)
+[![SkEditor Card](https://github-readme-stats.vercel.app/api/pin/?username=SkEditorTeam&repo=SkEditor&theme=tokyonight)](https://github.com/SkEditorTeam/SkEditor)
   
 </div>
 
