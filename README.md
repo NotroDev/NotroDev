@@ -24,7 +24,7 @@ Hi there! I'm **Notro**, a passionate C# developer :D
 ## 💻 Tech Stack
 
 <div align="center">
-  <a href="https://go-skill-icons.vercel.app/">
+  <a href="https://www.notro.me/skills">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,avaloniaui,unity,git,github" />
   </a>
 </div>
